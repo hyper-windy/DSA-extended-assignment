@@ -1,2 +1,2 @@
-# DSA_Extended_Assignment
+# DSA Extended Assignment
 Collaborator: Thai Ngo Van, Phu Nguyen Quoc
